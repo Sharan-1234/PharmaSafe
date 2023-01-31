@@ -13,3 +13,5 @@ the chain can be transferred between chain associates who have been verified. Sm
 allowing a product to be tracked back to its source. The React Framework is utilized to create a DApp. The smart contracts were implemented on a regional blockchain 
 that Ganache offered. The Truffle framework and Web3.js is used to connect the DApp to the blockchain. The results of the experiments demonstrate that our technique is
 workable and somewhat more secure than current systems.
+
+
