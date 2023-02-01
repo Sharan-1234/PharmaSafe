@@ -14,9 +14,20 @@ allowing a product to be tracked back to its source. The React Framework is util
 that Ganache offered. The Truffle framework and Web3.js is used to connect the DApp to the blockchain. The results of the experiments demonstrate that our technique is
 workable and somewhat more secure than current systems.
 
+# Snapshots
 
+![Screenshot (11) (1)](https://user-images.githubusercontent.com/114301040/215974248-89dd0b08-47e5-45d4-9e1b-4e5d53ba85c9.png)
 
 ![1](https://user-images.githubusercontent.com/114301040/215973875-51699da2-a9af-4bcc-ad83-3ad17a05af08.png)
+
+![2](https://user-images.githubusercontent.com/114301040/215974329-0b031c1c-d127-49df-96c8-1f8ed9a0f914.png)
+
+![3](https://user-images.githubusercontent.com/114301040/215974366-d5d9e20c-2931-453d-9cd5-b54b0151063d.png)
+
+![4](https://user-images.githubusercontent.com/114301040/215974400-92f1af4b-0941-4d8a-b9dc-993172a9c9ef.png)
+
+![5](https://user-images.githubusercontent.com/114301040/215974472-57dcb65e-32b9-4c1d-85ff-a1a8566af421.png)
+
 
 
 
