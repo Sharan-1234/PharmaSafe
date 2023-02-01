@@ -10,6 +10,7 @@ Blockchains are transparent, decentralized, distributed, and unchangeable, which
 
 # Snapshots
 
+
 ![Screenshot (11) (1)](https://user-images.githubusercontent.com/114301040/215974248-89dd0b08-47e5-45d4-9e1b-4e5d53ba85c9.png)
 
 ![1](https://user-images.githubusercontent.com/114301040/215973875-51699da2-a9af-4bcc-ad83-3ad17a05af08.png)
@@ -21,6 +22,7 @@ Blockchains are transparent, decentralized, distributed, and unchangeable, which
 ![4](https://user-images.githubusercontent.com/114301040/215974400-92f1af4b-0941-4d8a-b9dc-993172a9c9ef.png)
 
 ![5](https://user-images.githubusercontent.com/114301040/215974472-57dcb65e-32b9-4c1d-85ff-a1a8566af421.png)
+
 
 # Demo Video
 
